@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_document.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_expenses.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_person.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_shopping_list.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_task.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/drawable/ic_timetable.xml" value="0.1715" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_authorization.xml" value="0.25" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_create_family.xml" value="0.19882246376811594" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_main.xml" value="0.19882246376811594" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_show_document.xml" value="0.1375" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_upload_document.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/activity_user_timetable.xml" value="0.12" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/add_expense_dialog.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/add_shopping_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/add_task_dialog.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/app_bar_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/change_timetable_dialog.xml" value="0.25" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/content_navigation.xml" value="0.14270833333333333" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/create_family_dialog.xml" value="0.25" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/delete_item_dialog.xml" value="0.5922619047619048" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/document_row.xml" value="0.1375" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/documents_fragment.xml" value="0.1375" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/expense_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/expenses_fragment.xml" value="0.1" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/fragment_proflie.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/join_dialog.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/mark_as_complete_dialog.xml" value="0.12552083333333333" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/nav_header_navigation.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/profile_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/rv_header.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/shopping_list_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/shopping_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/task_row.xml" value="0.33" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/tasks_fragment.xml" value="0.12" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/time_table_fragment.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/timetable_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/upload_document_dialog.xml" value="0.12552083333333333" />
+        <entry key="..\:/PolyPlan/app/src/main/res/layout/user_timetable_row.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/menu/activity_main_drawer.xml" value="0.27291666666666664" />
+        <entry key="..\:/PolyPlan/app/src/main/res/menu/navigation.xml" value="0.27291666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

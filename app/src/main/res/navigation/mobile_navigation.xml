@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_profile">
+
+
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.nas.polyplan.ProfileFragment"
+        android:label="@string/profile"
+        tools:layout="@layout/profile_fragment" />
+
+    <fragment
+        android:id="@+id/nav_tasks"
+        android:name="com.nas.polyplan.TasksFragment"
+        android:label="@string/tasks"
+        tools:layout="@layout/tasks_fragment" />
+
+    <fragment
+        android:id="@+id/nav_documents"
+        android:name="com.nas.polyplan.DocumentsFragment"
+        android:label="@string/documents"
+        tools:layout="@layout/documents_fragment" />
+
+    <fragment
+        android:id="@+id/nav_expenses"
+        android:name="com.nas.polyplan.ExpensesFragment"
+        android:label="@string/expenses"
+        tools:layout="@layout/expenses_fragment" />
+
+    <fragment
+        android:id="@+id/nav_timetable"
+        android:name="com.nas.polyplan.TimeTableFragment"
+        android:label="@string/timeyable"
+        tools:layout="@layout/time_table_fragment" />
+
+    <fragment
+        android:id="@+id/nav_shopping_list"
+        android:name="com.nas.polyplan.ShoppingListFragment"
+        android:label="@string/shoppinglist"
+        tools:layout="@layout/shopping_list_fragment" />
+</navigation>

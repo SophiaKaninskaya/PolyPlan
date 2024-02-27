@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_person"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_tasks"
+            android:icon="@drawable/ic_task"
+            android:title="@string/tasks" />
+        <item
+            android:id="@+id/nav_documents"
+            android:icon="@drawable/ic_document"
+            android:title="@string/documents" />
+        <item
+            android:id="@+id/nav_expenses"
+            android:icon="@drawable/ic_expenses"
+            android:title="@string/expenses" />
+        <item
+            android:id="@+id/nav_timetable"
+            android:icon="@drawable/ic_timetable"
+            android:title="@string/timeyable" />
+        <item
+            android:id="@+id/nav_shopping_list"
+            android:icon="@drawable/ic_shopping_list"
+            android:title="@string/shoppinglist" />
+    </group>
+</menu>

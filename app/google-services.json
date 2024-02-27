@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555545084",
+    "project_id": "polyplan-8cc3b",
+    "storage_bucket": "polyplan-8cc3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555545084:android:4751c657bb533ee61c4279",
+        "android_client_info": {
+          "package_name": "com.nas.polyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555545084-5hq9p3cebundmgpjch1pcmhsao5vc041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALhM73Tltv2mbG1WTBmTTcplelD0Gv1GU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555545084-5hq9p3cebundmgpjch1pcmhsao5vc041.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
